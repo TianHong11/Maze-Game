@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="sfml_project" targetName="untitled1" />
+      <config projectName="sfml_project" targetName="sfml_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f517afa7-4337-4f0b-9734-77f9930d99d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2EgxvtX5MxhvESdRJIyWSw2NGDB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tianh/CLionProjects/SFML_Template - FinalGame(C++) - original - Copy&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)\SFML_PokerAnalysis" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)\SFML_BouncingBall" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)\SFML_TopHatGuy" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)\Mazes" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++) - original" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++) - original\SFML_MazeGame" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++) - Copy from original\SFML_MazeGame" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++) - Copy from original" />
+      <recent name="C:\Users\tianh\CLionProjects\SFML_Template - FinalGame(C++)\SFML_PokerAnalysis\FontPoker" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sfml_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sfml_project" TARGET_NAME="sfml_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sfml_project" RUN_TARGET_NAME="sfml_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f517afa7-4337-4f0b-9734-77f9930d99d0" name="Changes" comment="" />
+      <created>1663031262862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663031262862</updated>
+      <workItem from="1663031265211" duration="665000" />
+      <workItem from="1664843071490" duration="138000" />
+      <workItem from="1665099060143" duration="172000" />
+      <workItem from="1669162545290" duration="17651000" />
+      <workItem from="1669684556587" duration="46869000" />
+      <workItem from="1669959695283" duration="7519000" />
+      <workItem from="1670099083326" duration="90326000" />
+      <workItem from="1670751349565" duration="2576000" />
+      <workItem from="1670826661688" duration="9120000" />
+      <workItem from="1671086115625" duration="1131000" />
+      <workItem from="1671932563956" duration="59000" />
+      <workItem from="1675969490308" duration="2855000" />
+      <workItem from="1675975005667" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
